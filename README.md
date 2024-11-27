@@ -52,6 +52,10 @@ O projeto Inventário Mágico foi desenvolvido utilizando as seguintes tecnologi
 🔹 Video
 
 
+https://github.com/user-attachments/assets/a5844f1c-83cd-4444-8f0f-8ceef3162666
+
+
+
 ---
 
 ### 🔧 Como Executar o Projeto
